@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate in video game programming and robot development.
 - 📫 How to contact me nayemymurillorivera@gmail.com
 - 😄 Age: 18 years old.
-- ⚡ Fun fact: I really like butterflies.
+- ⚡ Fun fact: I really like robots.
 
 <!---
 NayemyMurilloRivera/NayemyMurilloRivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
